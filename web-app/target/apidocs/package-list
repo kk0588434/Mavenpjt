@@ -1,0 +1,7 @@
+devops.business
+devops.domain
+devops.persistence
+devops.ui
+devops.ui.presenter
+devops.ui.view
+devops.ui.view.form
